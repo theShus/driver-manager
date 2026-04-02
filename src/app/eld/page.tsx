@@ -36,7 +36,7 @@ export default function ELDPage() {
                         <h2 className="text-sm font-bold text-blue-600 uppercase tracking-widest mb-2">About the Product</h2>
                         <h3 className="text-3xl font-extrabold text-zinc-900 sm:text-4xl mb-6">Plug and play compliance.</h3>
                         <p className="text-lg text-zinc-600 mb-6 leading-relaxed">
-                            [Draft Copy]: Our provided ELD unit connects directly to your truck's diagnostic port in seconds. No complex wiring required. It instantly begins syncing Hours of Service (HOS) logs via bluetooth to your cab tablet.
+                            {"[Draft Copy]: Our provided ELD unit connects directly to your truck's diagnostic port in seconds. No complex wiring required. It instantly begins syncing Hours of Service (HOS) logs via bluetooth to your cab tablet."}
                         </p>
                         <p className="text-lg text-zinc-600 leading-relaxed">
                             [Draft Copy]: Fully FMCSA compliant, automatically updated over-the-air, and built with military-grade durability to survive the harsh realities of the road.

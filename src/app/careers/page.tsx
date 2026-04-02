@@ -31,7 +31,7 @@ export default function CareersPage() {
                     {['100% Load Transparency', 'Discounted ELD Hardware', 'Free Academy Access', '24/7 Dispatch Support'].map((benefit, idx) => (
                         <div key={idx} className="bg-zinc-50 p-8 rounded-2xl border border-zinc-100">
                             <h4 className="text-lg font-bold text-zinc-900 mb-2">{benefit}</h4>
-                            <p className="text-zinc-600 text-sm">[Draft Copy]: Leverage our enterprise volume to get industry-leading rates and support that solo drivers simply can't access.</p>
+                            <p className="text-zinc-600 text-sm">{"[Draft Copy]: Leverage our enterprise volume to get industry-leading rates and support that solo drivers simply can't access."}</p>
                         </div>
                     ))}
                 </div>

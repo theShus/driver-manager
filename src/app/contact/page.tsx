@@ -14,7 +14,7 @@ export default function ContactPage() {
                     {/* Left Side: Info */}
                     <div className="w-full lg:w-5/12 bg-zinc-900 text-white p-12 flex flex-col justify-between">
                         <div>
-                            <h1 className="text-4xl font-extrabold tracking-tight mb-4">Let's talk logistics.</h1>
+                            <h1 className="text-4xl font-extrabold tracking-tight mb-4">{"Let's talk logistics."}</h1>
                             <p className="text-zinc-300 leading-relaxed mb-8">
                                 Whether you need a quote for our ELD hardware or want to enroll in the Owner-Operator Academy, our team is ready to help you scale.
                             </p>

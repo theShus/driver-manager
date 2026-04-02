@@ -90,7 +90,7 @@ export default function LoginPage() {
                 {/* Footer of Card */}
                 <div className="bg-zinc-50 py-6 px-8 text-center border-t border-zinc-200">
                     <p className="text-sm text-zinc-600">
-                        Don't have an account? <Link href="/contact" className="font-semibold text-blue-600 hover:text-blue-500">Request access</Link>
+                        {"Don't have an account?"} <Link href="/contact" className="font-semibold text-blue-600 hover:text-blue-500">Request access</Link>
                     </p>
                 </div>
             </div>
